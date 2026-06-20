@@ -2,3 +2,4 @@
 # Nguyễn Tuấn Anh
 ## MSSv: K225480106002
 ## Lớp K58KTP
+## Link video giải thích: https://youtu.be/s9tvbjDAN9Q
